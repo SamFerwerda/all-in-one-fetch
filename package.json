@@ -1,0 +1,28 @@
+{
+  "name": "all-in-one-fetch",
+  "version": "1.0.0",
+  "description": "This module is built to allow a simple implementation of a network call through fetch. The module comes built in with a customizable retry and timeout mechanisme",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run ut"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamFerwerda/all-in-one-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "retry",
+    "timeout",
+    "all-in-one"
+  ],
+  "author": "S.F.Ferwerda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamFerwerda/all-in-one-fetch/issues"
+  },
+  "homepage": "https://github.com/SamFerwerda/all-in-one-fetch#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
